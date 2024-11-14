@@ -4,7 +4,7 @@ This project analyzes the Amazon Fine Food Reviews dataset to identify key varia
 
 ## Dataset
 
-The dataset contains reviews of fine foods from Amazon. It includes the following columns:
+The dataset contains reviews of fine foods from Amazon (https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?select=Reviews.csv). It includes the following columns:
 - `Id`: Unique identifier for each review.
 - `ProductId`: Unique identifier for each product.
 - `UserId`: Unique identifier for each user.
